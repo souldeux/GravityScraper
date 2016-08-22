@@ -1,11 +1,11 @@
 GravityForms is a popular WordPress form plugin. Sometimes, people would like to POST the data they receive through their GravityForms to other websites. The easiest way to do this is with a custom WP plugin. This small command-line application generates that plugin for you.
 
-Dependancies:
+Dependencies:
 
 requests
 BeautifulSoup
 
-(pip install x for x in dependancies)
+(pip install x for x in dependencies)
 
 
 Usage:
