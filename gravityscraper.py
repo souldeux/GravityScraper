@@ -80,7 +80,7 @@ def generate_plugin_text(dict_list):
 	text = """<?php
 /**
  * Plugin Name: Auto-Generated Third-Party Poster for Gravity Forms
- * Plugin URI: http://souldeux.com
+ * Plugin URI: https://github.com/souldeux/GravityScraper
  * Description: Posts GravityForms Form Data to a third party
  * Version: 1.0.0
  * Author: Nick Perry
